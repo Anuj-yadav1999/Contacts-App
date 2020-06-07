@@ -1,0 +1,15 @@
+.outerContainer {
+    margin-top: 20px;
+    margin-left: 40px;
+}
+
+.fieldContainer {
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    font-size: 25px;
+}
+
+.buttonContainer {
+    background-color: rgb(66, 228, 93);
+}

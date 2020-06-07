@@ -1,0 +1,22 @@
+.outerContainer{
+    background-color: whitesmoke;
+    margin-top: 30px;
+    margin-left: 40px;
+    margin-right: 40px;
+    padding-left: 50px;
+    padding-top: 30px;
+}
+
+.labelContainer {
+    margin-top: 30px;
+    margin-left: 40px;
+    font-size: 30px;
+    font-style: initial;
+}
+
+.buttonContainer {
+    font-size: 30px;
+    margin-top: 20px;
+    text-decoration: yellowgreen;
+    background-color: tomato;
+}
